@@ -1,5 +1,5 @@
 public class Multiply{
-
+// multiplication program
   Run|Debug
   public static void main(String args[]) {
       int p= 4;
